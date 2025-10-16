@@ -1,7 +1,7 @@
 # Módulo 4 - Ponderada Parte 1: Blink Led Interno
 
 ## Tinkercad
-Screenshot da tela: https://drive.google.com/file/d/1CA4zgNcVoscS2F62i3RYABkovIssK-bL/view?usp=drive_link
+![Screenshot da tela](https://drive.google.com/uc?export=view&id=1CA4zgNcVoscS2F62i3RYABkovIssK-bL[2]
 
 Vídeo de demonstração: https://drive.google.com/file/d/1Mwsmm0FZLZnooPdIi3rS2875rLGps2b3/view?usp=drive_link
 
